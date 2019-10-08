@@ -32,8 +32,8 @@ HELP.md
 
 # dependencies
 /frontend/account-system/node_modules
-/frontend/account-system/.pnp
-/frontend/account-system/.pnp.js
+.pnp
+.pnp.js
 
 # testing
 /frontend/account-system/coverage
